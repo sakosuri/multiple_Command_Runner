@@ -1,4 +1,4 @@
-<img width="373" height="16" alt="image" src="https://github.com/user-attachments/assets/07737687-2659-44e2-b058-3a7cfe96a4c6" /># multiple_Command_Runner
+multiple_Command_Runner
 Application which can execute multiple commands on all the reachable devices on the Cisco Catalyst Center
 
 This script will perform the below actions:
