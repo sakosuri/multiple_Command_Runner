@@ -5,7 +5,7 @@
 Cisco Catalyst Center Bulk Command Runner
 
 Reads multiple CLI commands from an Excel file and executes them
-on all devices managed by Catalyst Center (DNA Center).
+on all devices managed by Catalyst Center (formerly known as DNA Center).
 
 Based on the original Cisco Sample Code by Gabriel Zapodeanu.
 """
